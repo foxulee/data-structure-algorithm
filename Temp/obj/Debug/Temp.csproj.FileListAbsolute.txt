@@ -1,0 +1,7 @@
+E:\angular_test\DataStructureAndAlgorithm\Temp\bin\Debug\Temp.exe.config
+E:\angular_test\DataStructureAndAlgorithm\Temp\obj\Debug\Temp.csprojResolveAssemblyReference.cache
+E:\angular_test\DataStructureAndAlgorithm\Temp\bin\Debug\Temp.exe
+E:\angular_test\DataStructureAndAlgorithm\Temp\bin\Debug\Temp.pdb
+E:\angular_test\DataStructureAndAlgorithm\Temp\obj\Debug\Temp.exe
+E:\angular_test\DataStructureAndAlgorithm\Temp\obj\Debug\Temp.pdb
+E:\angular_test\DataStructureAndAlgorithm\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache

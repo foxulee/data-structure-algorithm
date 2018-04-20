@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "TestApp/1.0.0": {
+        "dependencies": {
+          "AbstractDataTypes": "1.0.0",
+          "Algorithm": "1.0.0",
+          "DataStructure": "1.0.0"
+        },
+        "runtime": {
+          "TestApp.dll": {}
+        }
+      },
+      "AbstractDataTypes/1.0.0": {
+        "dependencies": {
+          "DataStructure": "1.0.0"
+        },
+        "runtime": {
+          "AbstractDataTypes.dll": {}
+        }
+      },
+      "Algorithm/1.0.0": {
+        "runtime": {
+          "Algorithm.dll": {}
+        }
+      },
+      "DataStructure/1.0.0": {
+        "runtime": {
+          "DataStructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractDataTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataStructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

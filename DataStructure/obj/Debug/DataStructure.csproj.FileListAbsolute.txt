@@ -1,0 +1,6 @@
+E:\angular_test\DataStructureAndAlgorithm\DataStructure\bin\Debug\DataStructure.dll
+E:\angular_test\DataStructureAndAlgorithm\DataStructure\bin\Debug\DataStructure.pdb
+E:\angular_test\DataStructureAndAlgorithm\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
+E:\angular_test\DataStructureAndAlgorithm\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+E:\angular_test\DataStructureAndAlgorithm\DataStructure\obj\Debug\DataStructure.dll
+E:\angular_test\DataStructureAndAlgorithm\DataStructure\obj\Debug\DataStructure.pdb

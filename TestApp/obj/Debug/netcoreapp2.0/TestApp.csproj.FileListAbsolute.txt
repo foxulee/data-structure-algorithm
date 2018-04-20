@@ -1,0 +1,17 @@
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\DataStructure.dll
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\DataStructure.pdb
+E:\angular_test\DataStructureAndAlgorithm\TestApp\obj\Debug\netcoreapp2.0\TestApp.csprojResolveAssemblyReference.cache
+E:\angular_test\DataStructureAndAlgorithm\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+E:\angular_test\DataStructureAndAlgorithm\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+E:\angular_test\DataStructureAndAlgorithm\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfo.cs
+E:\angular_test\DataStructureAndAlgorithm\TestApp\obj\Debug\netcoreapp2.0\TestApp.dll
+E:\angular_test\DataStructureAndAlgorithm\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\AbstractDataTypes.dll
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\AbstractDataTypes.pdb
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\Algorithm.dll
+E:\angular_test\DataStructureAndAlgorithm\TestApp\bin\Debug\netcoreapp2.0\Algorithm.pdb
